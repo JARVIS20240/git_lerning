@@ -52,5 +52,9 @@ Branches:
 ->git checkout -b <New Branch name> = to create a new Branch
 ->git branch -d <branch name> = Delete Branch 
 
+Murge Branch:
+Way-1 
+->git diff <branch name> = Chech Diffrances to another Branch
+->git merge <branch name> = to merge 2 Branche
 
 
