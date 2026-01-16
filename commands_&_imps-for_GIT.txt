@@ -1,14 +1,14 @@
 Github Account Link with Git:
 
-git config --global user.name "USERNAME" = for set Github Username
-git config --global user.email "GITHUB EMAIL" = for set Github Email address
+1) git config --global user.name "USERNAME" = for set Github Username
+2) git config --global user.email "GITHUB EMAIL" = for set Github Email address
 
-git config --list = show what we change or set in git 
+3) git config --list = show what we change or set in git 
 
 
 Commands of Git Bash :
-git clone = for clone/copy Repository to local machine
-git status = for chack changes we done or show status of our Repository 
+1) git clone = for clone/copy Repository to local machine
+2) git status = for chack changes we done or show status of our Repository 
 
 
 Git Status 4 Type: 
