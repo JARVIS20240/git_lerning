@@ -39,7 +39,11 @@ Before Push.....
 
 ->git remote add origin <link> = Add new remote
 ->git remote -v = to verify remote
-->git branch 
+->git branch = check Branch 
+->git branch -M <branch name> = change Branch name
+->git push origin main
+->git push -u origin main = set Upcomming all Push in Origin main 
+ 
 
 
 
