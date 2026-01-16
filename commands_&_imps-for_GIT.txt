@@ -10,7 +10,6 @@ Commands of Git Bash :
 1) git clone = for clone/copy Repository to local machine
 2) git status = for chack changes we done or show status of our Repository 
 
-
 Git Status 4 Type: 
 1) Untract = New File that git dosen't check yet
 2) Modified = changed or changes that we made
@@ -34,7 +33,14 @@ uplod local Repo to remote Repo
 ->git push origin main 
 
 
+Init Command:
+1) git init = create a new Git Repo
+Before Push.....
 
-File > modified | Unchanged > Add (Staged) > Commite (Unchanged)
+->git remote add origin <link> = Add new remote
+->git remote -v = to verify remote
+->git branch 
+
+
 
 
