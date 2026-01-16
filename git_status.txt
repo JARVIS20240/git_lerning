@@ -1,0 +1,9 @@
+Commands of Git Bash :
+1) git clone = for clone/copy Repository to local machine
+2) git status = for chack changes we done or show status of our Repository 
+
+Git Status 4 Type: 
+1) Untract = New File that git dosen't check yet
+2) Modified = changed or changes that we made
+3) Unmodified = Unchanged or Not changes anything in file 
+4) Staged = file is ready to be commited (that phase after Add changes before Commite)

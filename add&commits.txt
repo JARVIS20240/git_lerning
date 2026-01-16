@@ -1,0 +1,15 @@
+Add & Commite:
+1) add: adds new or changed file in your working directory to the Git staging area.(middle stage of Unchanged and Commite Stage)
+->  git add "FILE_NAME" (single File)
+->  git add . (all file)
+
+2) Commite: it is the record of change.
+->git commit -m "some message"
+
+Note: Still Not showing Data on Github Website 
+for that 
+
+Push Command :
+uplod local Repo to remote Repo
+
+->git push origin main = origin is Alias of Remote Repo (Github Pero name) main is Branch name

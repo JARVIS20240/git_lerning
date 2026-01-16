@@ -1,0 +1,6 @@
+Github Account Link with Git:
+
+1) git config --global user.name "USERNAME" = for set Github Username
+2) git config --global user.email "GITHUB EMAIL" = for set Github Email address
+
+3) git config --list = show what we change or set in git 

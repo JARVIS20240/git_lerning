@@ -1,0 +1,10 @@
+Merge Branch:
+Way-1 
+->git diff <branch name> = Chech Diffrances to another Branch
+->git merge <branch name> = to merge 2 Branche
+
+Way-2 (with github )
+Create PR (Pull Request)
+
+To show on local machine we Pull the main Branch on Local machine 
+->git pull origin main = featch and Download content from remote repo and immediately Update the Local Repo to match that cointent

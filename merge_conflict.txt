@@ -1,0 +1,3 @@
+Resolving Merge Conflict:
+to chech any confliction are not 
+->git diff <branch name> = to chech changes/campare changes

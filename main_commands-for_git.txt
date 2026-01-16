@@ -30,12 +30,12 @@ for that
 Push Command :
 uplod local Repo to remote Repo
 
-->git push origin main 
+->git push origin main = origin is Alias of Remote Repo (Github Pero name) main is Branch name
 
 
 Init Command:
 1) git init = create a new Git Repo
-Before Push.....
+Before Push check this.....
 
 ->git remote add origin <link> = Add new remote
 ->git remote -v = to verify remote
@@ -52,7 +52,7 @@ Branches:
 ->git checkout -b <New Branch name> = to create a new Branch
 ->git branch -d <branch name> = Delete Branch 
 
-Murge Branch:
+Merge Branch:
 Way-1 
 ->git diff <branch name> = Chech Diffrances to another Branch
 ->git merge <branch name> = to merge 2 Branche
