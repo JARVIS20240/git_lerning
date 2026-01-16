@@ -44,7 +44,13 @@ Before Push.....
 ->git push origin main
 ->git push -u origin main = (Set Up stream)set Upcomming all Push in Origin main 
 
+Branches:
 
+->git branch = for chech current branch
+->git branch -M <branch name> = change Branch name
+->git chackout <branch name> = to navigate diff.. branch (Chnage Branch) 
+->git checkout -b <New Branch name> = to create a new Branch
+->git branch -d <branch name> = Delete Branch 
 
 
 
