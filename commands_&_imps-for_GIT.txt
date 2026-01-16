@@ -57,4 +57,6 @@ Way-1
 ->git diff <branch name> = Chech Diffrances to another Branch
 ->git merge <branch name> = to merge 2 Branche
 
+Way-2 (with github )
+Create PR (Pull Request)
 
