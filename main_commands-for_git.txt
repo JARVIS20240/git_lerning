@@ -69,3 +69,12 @@ to chech any confliction are not
 
 Hello karan
 
+Undoing Changes:
+
+1)we add the changes but not commit it.
+->git reset <file name> = to reset perticuler file 
+
+2)we commit unwanted changes
+->git reset HEAD~1 = back one Commit state (second last Commit state)
+
+changes are not to save
