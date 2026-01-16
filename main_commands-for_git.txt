@@ -77,4 +77,6 @@ Undoing Changes:
 2)we commit unwanted changes
 ->git reset HEAD~1 = back one Commit state (second last Commit state)
 
+3)we can go Multiple step Commit
+->git reset <Commit Hash> = we can go bach perticular Commit state (Commit hash -> git log)
 changes are not to save
