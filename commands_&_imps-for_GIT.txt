@@ -63,3 +63,5 @@ Create PR (Pull Request)
 To show on local machine we Pull the main Branch on Local machine 
 ->git pull origin main = featch and Download content from remote repo and immediately Update the Local Repo to match that cointent
 
+Resolving Merge Conflict:
+Hello karan
