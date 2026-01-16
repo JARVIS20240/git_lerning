@@ -8,4 +8,4 @@ Undoing Changes:
 
 3)we can go Multiple step Commit
 ->git reset <Commit Hash> = we can go bach perticular Commit state (Commit hash -> git log)
-changes are not to save
+->git reset --hard <Commit Hash> = changes are all remove from VS Code / Code editor
