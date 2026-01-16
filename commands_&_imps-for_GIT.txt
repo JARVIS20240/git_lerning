@@ -1,0 +1,33 @@
+Github Account Link with Git:
+
+git config --global user.name "USERNAME" = for set Github Username
+git config --global user.email "GITHUB EMAIL" = for set Github Email address
+
+git config --list = show what we change or set in git 
+
+
+Commands of Git Bash :
+git clone = for clone/copy Repository to local machine
+git status = for chack changes we done or show status of our Repository 
+
+
+Git Status 4 Type: 
+1) Untract = New File that git dosen't check yet
+2) Modified = changed or changes that we made
+3) Unmodified = Unchanged or Not changes anything in file 
+4) Staged = file is ready to be commited (that phase after Add changes before Commite)
+
+Add & Commite:
+1) add: adds new or changed file in your working directory to the Git staging area.(middle stage of Unchanged and Commite Stage)
+->  git add "FILE_NAME" (single File)
+->  git add . (all file)
+
+2) Commite: it is the record of change.
+->git commit -m "some message"
+
+
+
+
+File > modified | Unchanged > Add (Staged) > Commite (Unchanged)
+
+
