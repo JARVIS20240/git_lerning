@@ -25,6 +25,13 @@ Add & Commite:
 2) Commite: it is the record of change.
 ->git commit -m "some message"
 
+Note: Still Not showing Data on Github Website 
+for that 
+
+Push Command :
+uplod local Repo to remote Repo
+
+->git push origin main 
 
 
 
